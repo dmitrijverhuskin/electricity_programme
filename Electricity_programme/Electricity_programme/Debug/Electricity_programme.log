@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Electricity_programme.cpp
+c:\users\дима\source\repos\electricity_programme\electricity_programme\electricity_programme.cpp(146): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
